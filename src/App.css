@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+section {
+  display: grid;
+  grid-gap: 0.5em;
+  padding: 1rem;
+}
+
+article{
+  background-color: #ff0000;
+  color: white;
+  padding: 0.5rem;
+}
